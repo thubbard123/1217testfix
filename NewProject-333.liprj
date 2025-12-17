@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="ar" xml:lang="ar" SourceLanguage="en" FileFormatVersion="6" CreatedInVersion="11">
+    <ProjectFile Source="Target/NewTopic.htm" Target="Target/NewTopic.htm" />
+</LingoProject>

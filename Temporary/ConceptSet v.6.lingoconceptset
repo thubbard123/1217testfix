@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlobalConceptSet>
+  <Concepts />
+  <SourceUrls>
+    <Url
+      Source="Index.liindexmap" />
+    <Url
+      Source="NewTopic.htm" />
+  </SourceUrls>
+  <UsedUrls />
+</CatapultGlobalConceptSet>
